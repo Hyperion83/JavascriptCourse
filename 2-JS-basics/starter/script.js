@@ -15,4 +15,6 @@ if(johnBMI > markBMI){
     winner = 'John'
 }
 
-console.log('The winner is '+winner);
+console.log('The winner is '+winner); 
+
+fdfd
