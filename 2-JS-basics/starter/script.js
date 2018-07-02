@@ -90,6 +90,7 @@ var tipsCalculate = {
         return tipsLocal;
     }
 }
-
+ 
 tipsCalculate.tips();
 console.log(tipsCalculate);
+ 
